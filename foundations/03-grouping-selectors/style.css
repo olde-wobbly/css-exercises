@@ -1,11 +1,15 @@
+.bk1,
+.bk2 {
+    font-size: 28px;
+    font-family: helvetica, 'Times New Roman', Times, serif;
+}
 
-
-.bk-grnd blue{
+.bk1{
     background-color: rgb(96, 124, 218);
     color:rgb(235, 155, 57);
 }
 
-.bk-grnd yellow{
+.bk2{
     background-color: rgba(243, 243, 66, 0.849);
     color: blueviolet;
 }
