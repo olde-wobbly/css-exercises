@@ -1,0 +1,21 @@
+.odd-no-elements {
+    background-color: rgb(255, 0, 128);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.odd-no-elements2 {
+    background-color: rgb(255, 0, 128);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+}
+
+#even-elements {
+    color: rgb(17, 0, 255);
+    font-size: 40px;
+}
+
+#even-elements2 {
+    background-color: rgba(0, 255, 115, 0.767);
+    font-size: 24px;
+    font-style: bold;
+}
